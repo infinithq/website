@@ -28,6 +28,12 @@ Complete content provided as Markdown [industry_minisite.md](industry_minisite.m
 
 # **Empowering Industry Through Software**
 
+{{< subsection 
+    type="CTA" 
+    text="Get in touch"
+    link="footer" 
+{{< /subsection >}}
+
 We help industrial and hardware manfacturers modernize by applying software development principles to their automation systems. This means:
 - Systems that can be updated and improved continuously
 - Data that flows freely and brings real insights
