@@ -109,6 +109,8 @@ Assets Provided:
 infinit.dev (WordPress site - visual reference only)
 Figma file with informal brand system. (TODO attach Figma file)
 
+Footer: <img width="1283" height="449" alt="Image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/135344/498255963-a888dae1-2147-45c1-99e7-e0f587d5aebf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251007T104847Z&X-Amz-Expires=300&X-Amz-Signature=c8ef35e281fa1d28e1ce7381b389d33d901ee10c6692c18e176f76ef6fd3d9f5&X-Amz-SignedHeaders=host" />
+
 Workflow:
 
 Extract applicable styles from infinit.dev
