@@ -41,6 +41,23 @@ We help industrial and hardware manfacturers modernize by applying software deve
 
 **Technologies:** Python/asyncio, Modbus RTU, CAN Bus, MQTT, WebSockets, Alpine.js, ARM Linux
 
+---
+
+## **Management API Service**
+**Client:** Sleepiz.com - Medical device company specializing in contactless sleep monitoring
+
+**Challenge:** Develop secure, scalable API services to support data exchange between cloud infrastructure, medical devices, and partner applications.
+
+**Solution:** Designed and implemented REST API layers using FastAPI, providing endpoints for authentication and patient data management with role-based access control.
+
+**Key Benefits:**
+- Secure and modular API architecture
+- Seamless integration with internal and external systems
+- High performance through asynchronous FastAPI design
+- Comprehensive testing and automatic documentation
+
+**Technologies:** Python, FastAPI, MySQL
+
 ## Our Technology Philosophy
 🛡️ Proven & Stable
 We choose mature technologies with strong community support and long-term viability.
