@@ -1,6 +1,6 @@
 # **Empowering Industry Through Software**
 
-We help industrial and hardware manfacturers modernize by applying software development principles to their automation systems. This means:
+We help industrial and hardware manufacturers modernize by applying software development principles to their automation systems. This means:
 - Systems that can be updated and improved continuously
 - Data that flows freely and brings real insights
 - Future-proofing by prefering open solutions over proprietary ones
