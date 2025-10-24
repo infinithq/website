@@ -1,11 +1,20 @@
 # **Empowering Industry Through Software**
 
-We help industrial and hardware manufacturers modernize by applying software development principles to their automation systems. This means:
-- Systems that can be updated and improved continuously
-- Data that flows freely and brings real insights
-- Future-proofing by prefering open solutions over proprietary ones
-- Teamwork and shared knowledge without relying on a single person
-- Use the power of AI to assist in the development process
+We help industrial and hardware manufacturers modernize by applying software development principles to their automation systems. What benefits does working with us bring?
+
+
+# Key **Benefits**
+Systems that can be updated and improved continuously
+
+Visibility into system health and performance
+
+Data that flows freely and brings real insights
+
+Future-proofing by choosing open over proprietary solutions
+
+Teamwork and shared knowledge across people
+
+Use the power of AI to assist in the development process
 
 # Case Studies
 
