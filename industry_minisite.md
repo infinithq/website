@@ -2,7 +2,6 @@
 
 We help industrial and hardware manufacturers modernize by applying software development principles to their automation systems. What benefits does working with us bring?
 
-
 # Key **Benefits**
 Systems that can be updated and improved continuously
 
